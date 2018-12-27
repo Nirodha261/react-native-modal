@@ -431,7 +431,7 @@ class ReactNativeModal extends Component {
     const deviceHeight = deviceHeightProp || this.state.deviceHeight;
 
     const computedStyle = [
-      { margin: deviceWidth * 0.05, transform: [{ translateY: 0 }] },
+      { margin: deviceWidth * 0.00, transform: [{ translateY: 0 }] },
       styles.content,
       style
     ];
