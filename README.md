@@ -19,6 +19,11 @@ The aim of `react-native-modal` is expanding the original react-native `Modal` c
 
 ## Demo
 
+ ================== Recent Channges =======================================
+ *****react-native-modal-enhanced provides the change of removing the additional margin for the modal provided basied on the device size.*****
+
+============================================================================ 
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/mmazzarolo/react-native-tips/master/imgs/modal.gif" height="300" />
 <img src="https://raw.githubusercontent.com/mmazzarolo/react-native-modal-datetime-picker/master/extras/datetimepicker-ios.gif" height="300" />
